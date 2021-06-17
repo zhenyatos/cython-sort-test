@@ -8,7 +8,7 @@ import sys
 import array
 
 if len(sys.argv) < 2:
-	print("[ERROR] You should pass array size as an argument");
+	print("[ERROR] You should pass array size as an argument")
 	sys.exit()
 
 try:
